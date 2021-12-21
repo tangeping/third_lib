@@ -3,7 +3,7 @@ package timingwheel
 import (
 	"errors"
 	"fmt"
-	"myworkplace/timingwheel/delayqueue"
+	"github.com/tangeping/third_lib/timingwheel/delayqueue"
 	"sync/atomic"
 	"time"
 	"unsafe"
